@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidTwitterApp</string>
+    <string name="item1">表示件数変更</string>
+    <string name="item2">ログアウト</string>
+</resources>
